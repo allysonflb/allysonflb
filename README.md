@@ -13,6 +13,21 @@
 
 ###
 
+- 🔭 Atualmente trabalhando com [projetos pessoais e estudos](https://github.com/allysonflb/Dir-Pessoal)
+
+- 🌱 Atualmente aprendendo com **Python e Javascript**
+
+- 👨‍💻 Todos meus projetos estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
+
+- ⚡ Fato engraçado **Gosto de café ☕️, mas prefiro um tipo de café 🥛☕️**
+
+
+###
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -28,6 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
+###
+
+<h3 align="left">Me encontre em:</h3>
+<p align="left">
+  
 ###
 
 <div align="left">
