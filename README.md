@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/allysonflb/allysonflb/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/allysonflb/allysonflb/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
