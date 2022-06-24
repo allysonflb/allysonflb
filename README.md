@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/allysonflb/allysonflb/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/allysonflb/allysonflb/blob/84b2aebab912ee72b172ad6df0b6c4b53615c0c4/snake.svg" alt="Snake animation" />
 
 ###
 
