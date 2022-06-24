@@ -17,7 +17,7 @@
 
 - 🌱 Atualmente aprendendo: **Python e Javascript**
 
-- 👨‍💻 Todos meus projetos estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
+- 👨‍💻 Alguns dos meus projetos estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
 
 - ⚡ Fato engraçado: **Gosto de café ☕️, mas prefiro apenas um tipo de café 🥛☕️**
 
