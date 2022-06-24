@@ -43,20 +43,12 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="150" src="https://i.imgur.com/JflWkty.jpg"  />
-</div>
-
-###
-
-<br clear="both">
-
 ![snake gif](https://github.com/allysonflb/allysonflb/blob/output/snake.svg)
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=allysonflb" alt="Spotify recently played"  />
 </div>
 
 ###
