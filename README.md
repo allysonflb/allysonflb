@@ -13,11 +13,11 @@
 
 ###
 
-- 🔭 Atualmente trabalhando com [projetos pessoais e estudos](https://github.com/allysonflb/Dir-Pessoal)
+- 🔭 Atualmente trabalhando com [projetos pessoais, estudos e grupo morada](https://github.com/allysonflb/Dir-Pessoal)
 
-- 🌱 Atualmente aprendendo: **Python e Javascript**
+- 🌱 Atualmente aprendendo: **Python, Javascript, AdvPl, HTML, CSS e AWS**
 
-- 👨‍💻 Alguns dos meus projetos estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
+- 👨‍💻 Alguns dos meus projetos pessoais estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
 
 - ⚡ Fato engraçado: **Gosto de café ☕️, mas prefiro apenas um tipo de café 🥛☕️**
 
