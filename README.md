@@ -15,7 +15,7 @@
 
 - 🔭 Atualmente trabalhando com projetos pessoais, estudos e Grupo Morada
 
-- 🌱 Atualmente aprendendo: **AdvPL, Python, Javascript, React, Java, AdvPl, HTML, CSS e AWS**
+- 🌱 Atualmente aprendendo: **AdvPL, Python, Javascript, React, Java, HTML, CSS e AWS**
 
 - 👨‍💻 Alguns dos meus projetos pessoais estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
 
