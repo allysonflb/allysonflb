@@ -63,14 +63,4 @@
 
 ###
 
-<br clear="both">
 
-![snake gif](https://github.com/allysonflb/allysonflb/blob/output/snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=allysonflb" alt="Spotify recently played"  />
-</div>
-
-###
