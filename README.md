@@ -13,7 +13,7 @@
 
 ###
 
-- 🔭 Atualmente trabalhando com projetos pessoais, estudos e EGRN
+- 🔭 Atualmente trabalhando em **projetos pessoais, estudos, EGRN e DataVence**
 
 - 🌱 Atualmente aprendendo: **Javascript, Typescript, React, Next JS, HTML, CSS e AWS**
 
