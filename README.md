@@ -13,9 +13,9 @@
 
 ###
 
-- 🔭 Atualmente trabalhando em **projetos pessoais, estudos, EGRN e DataVence**
+- 🔭 Atualmente trabalhando em **DataVence**
 
-- 🌱 Atualmente aprendendo: **Javascript, Typescript, React, Next JS, HTML, CSS e AWS**
+- 🌱 Conhecimentos: **Python, PHP, Laravel, Javascript, Typescript, React, Next JS, HTML, CSS e AWS**
 
 - 👨‍💻 Alguns dos meus projetos pessoais estão aqui: [Github](https://github.com/allysonflb?tab=repositories)
 
