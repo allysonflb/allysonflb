@@ -13,7 +13,7 @@
 
 ###
 
-- 🔭 Atualmente trabalhando em **DataVence**
+- 🔭 Atualmente trabalhando em **Sob NDA**
 
 - 🌱 Conhecimentos: **Python, PHP, Laravel, Javascript, Typescript, React, Next JS, HTML, CSS e AWS**
 
